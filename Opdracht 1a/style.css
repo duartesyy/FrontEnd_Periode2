@@ -30,7 +30,7 @@
 [class^="col-"] {
 	padding: var(--column-padding);
 	display: flex;
-	flex-grow: 1;
+	flex-grow: 0;
 	flex-shrink: 1;
 	align-items: center;
 	border: 1px solid #000;
